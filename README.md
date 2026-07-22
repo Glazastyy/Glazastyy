@@ -2,9 +2,9 @@
   <h1>André Ribas</h1>
   <p><strong>Backend Engineer | Security-Minded Developer | Cloud-Native Enthusiast</strong></p>
 
-  [![Email](https://img.shields.io/badge/andre@ribassu.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:github@glazastov.com)
-  [![Telegram](https://img.shields.io/badge/@RibasSu-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/glazastov)
-  [![Portfolio](https://img.shields.io/badge/ribassu.dev-000000?style=flat&logo=vercel&logoColor=white)](https://glazastov.com/)
+  [![Email](https://img.shields.io/badge/andre@Glazastyy.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:github@glazastov.com)
+  [![Telegram](https://img.shields.io/badge/@Glazastyy-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/glazastov)
+  [![Portfolio](https://img.shields.io/badge/Glazastyy.dev-000000?style=flat&logo=vercel&logoColor=white)](https://glazastov.com/)
   [![𝕏](https://img.shields.io/badge/@andre_ribas1-000000?style=flat&logo=x&logoColor=white)](https://x.com/glazastov)
   [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/glazastov)
 </div>
@@ -57,11 +57,11 @@ Passionate about turning complex ideas into robust, production-ready solutions w
 
 ## Featured Projects
 
-- **[Cipherlink](https://github.com/RibasSu/cipherlink)** — Secure URL redirector with real-time end-to-end encryption on Cloudflare Workers (X25519 + AES-256-GCM).
-- **[Worker Mailer](https://github.com/RibasSu/worker-mailer)** — Lightweight, dependency-free SMTP client running on Cloudflare Workers using raw TCP sockets (TypeScript + Rust version).
-- **[Certy](https://ribassu.dev)** — Free Let's Encrypt SSL certificate issuance with automated DNS validation and no-account flow.
+- **[Cipherlink](https://github.com/Glazastyy/cipherlink)** — Secure URL redirector with real-time end-to-end encryption on Cloudflare Workers (X25519 + AES-256-GCM).
+- **[Worker Mailer](https://github.com/Glazastyy/worker-mailer)** — Lightweight, dependency-free SMTP client running on Cloudflare Workers using raw TCP sockets (TypeScript + Rust version).
+- **[Certy](https://Glazastyy.dev)** — Free Let's Encrypt SSL certificate issuance with automated DNS validation and no-account flow.
 - **[Epístola](https://github.com/epistola-com-br/Epistola)** — Universal infrastructure for digital letters (epistolary, missives, and seals).
-- **[Cirabit](https://ribassu.dev)** — Android P2P chat app over Bluetooth Mesh with E2E encryption and geohash-based channels (Kotlin).
+- **[Cirabit](https://Glazastyy.dev)** — Android P2P chat app over Bluetooth Mesh with E2E encryption and geohash-based channels (Kotlin).
 - **[Protect-DDoS](https://github.com/likn-org/protect-ddos)** — DDoS protection module for Node.js applications.
 
 **Other technical interests**: Rust compilers (`likn-lang`), port scanning, security automations, and contributions to open-source projects (EmDash CMS, etc.).
@@ -71,17 +71,17 @@ Passionate about turning complex ideas into robust, production-ready solutions w
 ## GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.ribassu.dev/api?username=RibasSu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.ribassu.dev/api/top-langs/?username=RibasSu&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.Glazastyy.dev/api?username=Glazastyy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.Glazastyy.dev/api/top-langs/?username=Glazastyy&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img height="250em" src="https://streak-stats.demolab.com?user=RibasSu&theme=radical&hide_border=true"/>
+  <img height="250em" src="https://streak-stats.demolab.com?user=Glazastyy&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img height="120em" src="https://github-readme-stats.ribassu.dev/api/pin/?username=RibasSu&repo=Cipherlink&theme=radical&hide_border=true" alt="Cipherlink"/>
-  <img height="120em" src="https://github-readme-stats.ribassu.dev/api/pin/?username=RibasSu&repo=worker-mailer&theme=radical&hide_border=true" alt="Worker Mailer"/>
+  <img height="120em" src="https://github-readme-stats.Glazastyy.dev/api/pin/?username=Glazastyy&repo=Cipherlink&theme=radical&hide_border=true" alt="Cipherlink"/>
+  <img height="120em" src="https://github-readme-stats.Glazastyy.dev/api/pin/?username=Glazastyy&repo=worker-mailer&theme=radical&hide_border=true" alt="Worker Mailer"/>
 </div>
 
 ---
@@ -89,7 +89,7 @@ Passionate about turning complex ideas into robust, production-ready solutions w
 ## Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RibasSu&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Glazastyy&theme=react-dark&hide_border=true"/>
 </div>
 
 ---
@@ -112,5 +112,5 @@ Passionate about turning complex ideas into robust, production-ready solutions w
 ---
 
 <div align="center">
-  <sub>Check out my full portfolio at <a href="https://ribassu.dev">ribassu.dev</a> • Open to new opportunities and collaborations.</sub>
+  <sub>Check out my full portfolio at <a href="https://Glazastyy.dev">Glazastyy.dev</a> • Open to new opportunities and collaborations.</sub>
 </div>
