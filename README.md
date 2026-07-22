@@ -2,7 +2,7 @@
   <h1>André Ribas</h1>
   <p><strong>Backend Engineer | Security-Minded Developer | Cloud-Native Enthusiast</strong></p>
 
-  [![Email](https://img.shields.io/badge/andre@ribassu.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:andre@ribassu.com)
+  [![Email](https://img.shields.io/badge/andre@ribassu.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:github@glazastov.com)
   [![Telegram](https://img.shields.io/badge/@RibasSu-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/glazastov)
   [![Portfolio](https://img.shields.io/badge/ribassu.dev-000000?style=flat&logo=vercel&logoColor=white)](https://glazastov.com/)
   [![𝕏](https://img.shields.io/badge/@andre_ribas1-000000?style=flat&logo=x&logoColor=white)](https://x.com/glazastov)
